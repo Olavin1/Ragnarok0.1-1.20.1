@@ -18,14 +18,13 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.olavo.ragnarokmod.item.ModItems;
 import org.slf4j.Logger;
 
-import static net.minecraftforge.versions.forge.ForgeVersion.MOD_ID;
-
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod(RagnarokMod.MOD_ID)
+@Mod(RagnarokMod.MODID)
 public class RagnarokMod
 {
     // Define mod id in a common place for everything to reference
-    public static final String MOD_ID = "ragnarokmod";
+    public static final String MODID = "ragnarokmod";
+    // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public RagnarokMod() {
@@ -49,7 +48,7 @@ public class RagnarokMod
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            event.accept(ModItems.MYTHRIL);
+            event.accept(ModItems.MITHRIL);
         }
     }
 
@@ -62,7 +61,7 @@ public class RagnarokMod
     }
 
     // You can use EventBusSubscriber to automatically register all static methods in the class annotated with @SubscribeEvent
-    @Mod.EventBusSubscriber(modid = MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
+    @Mod.EventBusSubscriber(modid = MODID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
     public static class ClientModEvents
     {
         @SubscribeEvent
