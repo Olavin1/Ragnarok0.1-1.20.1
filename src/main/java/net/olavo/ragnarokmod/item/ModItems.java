@@ -9,7 +9,7 @@ import net.olavo.ragnarokmod.RagnarokMod;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
-            DeferredRegister.create(ForgeRegistries.ITEMS, RagnarokMod.MODID);
+            DeferredRegister.create(ForgeRegistries.ITEMS, RagnarokMod.MOD_ID);
 
             public static final RegistryObject<Item> MYTHRIL = ITEMS.register("mythril",
                     () -> new Item(new Item.Properties()));
