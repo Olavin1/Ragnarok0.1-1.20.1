@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "ragnarokmod:block/mithril_block"
+    }
+  }
+}

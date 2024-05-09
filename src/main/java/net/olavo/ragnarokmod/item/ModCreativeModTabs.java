@@ -22,6 +22,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.RAW_MITHRIL.get());
 
                         pOutput.accept(ModBlocks.MITHRIL_BLOCK.get());
+                        pOutput.accept(ModBlocks.RAW_MITHRIL_BLOCK.get());
 
                     })
                     .build());

@@ -2,5 +2,8 @@
   "item.ragnarokmod.mithril_ingot": "Mithril Ingot",
   "item.ragnarokmod.raw_mithril": "Raw Mithril",
 
+  "block.ragnarokmod.mithril_block": "Block of Mithril",
+  "block.ragnarokmod.raw_mithril_block": "Block of Raw Mithril",
+
   "creativetab.ragnarok_tab": "Ragnarok Creative Tab"
 }
