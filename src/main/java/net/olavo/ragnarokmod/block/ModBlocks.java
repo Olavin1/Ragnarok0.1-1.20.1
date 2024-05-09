@@ -19,9 +19,9 @@ public class ModBlocks {
             DeferredRegister.create(ForgeRegistries.BLOCKS, RagnarokMod.MODID);
 
     public static final RegistryObject<Block> MITHRIL_BLOCK = registerBlock("mithril_block",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)))
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)));
     public static final RegistryObject<Block> RAW_MITHRIL_BLOCK = registerBlock("raw_mithril_block",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)))
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)));
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block){
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
