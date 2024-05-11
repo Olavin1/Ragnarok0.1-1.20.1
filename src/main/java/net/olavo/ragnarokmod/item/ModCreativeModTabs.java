@@ -20,6 +20,15 @@ public class ModCreativeModTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.MITHRIL_INGOT.get());
                         pOutput.accept(ModItems.RAW_MITHRIL.get());
+                        pOutput.accept(ModItems.ECTOPLASM.get());
+                        pOutput.accept(ModItems.BRONZE_INGOT.get());
+                        pOutput.accept(ModItems.SILVER_INGOT.get());
+                        pOutput.accept(ModItems.SUNSTEEL_INGOT.get());
+                        pOutput.accept(ModItems.DWARVEN_STEEL_INGOT.get());
+                        pOutput.accept(ModItems.MOONSILVER_INGOT.get());
+                        pOutput.accept(ModItems.ETHER.get());
+                        pOutput.accept(ModItems.GOLDEN_ETHER.get());
+                        pOutput.accept(ModItems.MYSTIC_MEAT.get());
 
                         pOutput.accept(ModBlocks.MITHRIL_BLOCK.get());
                         pOutput.accept(ModBlocks.RAW_MITHRIL_BLOCK.get());

@@ -1,6 +1,15 @@
 {
   "item.ragnarokmod.mithril_ingot": "Mithril Ingot",
   "item.ragnarokmod.raw_mithril": "Raw Mithril",
+  "item.ragnarokmod.ectoplasm": "Ectoplasm",
+  "item.ragnarokmod.bronze_ingot": "Bronze Ingot",
+  "item.ragnarokmod.silver_ingot": "Silver Ingot",
+  "item.ragnarokmod.sunsteel_ingot": "Sun-Steel Ingot",
+  "item.ragnarokmod.dwarven_steel_ingot": "Dwarven-Steel Ingot",
+  "item.ragnarokmod.moonsilver_ingot": "Moon Silver Ingot",
+  "item.ragnarokmod.ether": "Éther",
+  "item.ragnarokmod.golden_ether": "Golden Éther",
+  "item.ragnarokmod.mystic_meat": "Mystic Meat",
 
   "block.ragnarokmod.mithril_block": "Block of Mithril",
   "block.ragnarokmod.raw_mithril_block": "Block of Raw Mithril",
