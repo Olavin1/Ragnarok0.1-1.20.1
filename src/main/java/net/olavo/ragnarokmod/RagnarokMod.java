@@ -24,9 +24,7 @@ import org.slf4j.Logger;
 @Mod(RagnarokMod.MODID)
 public class RagnarokMod
 {
-    // Define mod id in a common place for everything to reference
     public static final String MODID = "ragnarokmod";
-    // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public RagnarokMod() {

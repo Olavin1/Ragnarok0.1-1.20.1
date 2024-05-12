@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###"
+    "###"
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ragnarokmod:mithril_ingot"
+    }
+  },
+  "result": {
+    "item": "ragnarokmod:mithril_block"
+  }
+}
