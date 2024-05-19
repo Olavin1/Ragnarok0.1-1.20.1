@@ -1,0 +1,45 @@
+﻿1. O Overworld é Midgard no pós Ragnarok
+2. Objetivo do mod é ressuscitar elementos da mitologia nórdica.
+3. Todos os deuses já estão mortos
+4. Filhos de Thor ressuscitam, filho de odin vidar (Deus da vingança) está vivo e ajuda a reconstrução do novo mundo e ressurreição de filhos de Thor.
+
+5. O jogador vai fazer ritual da forja de bifrost dado por  para poder ir para Asgard, que se encontra destruído
+6. Tesouros de Odin estariam disponível para coleta além do material divino (éter dourado)
+7. Em Asgard terá disponível a criação do ritual de invocar Tanngrisnir e Tanngnjóstr a partir das criação do martelo de Thor. 
+8. As cabras poderao ser usada para voar sem a carruagem, toda vez que morrerem droparao sempre 1 couro relíquia e 1 osso relíquia que será utilizado para ressuscitar novamente, criando um método de comida infinita, carne de cordeiro será semelhante a maçã dourada + força 1.
+9. Martelo de Thor, será 3 tipos o antigo, a réplica simbólica usada na forja da bifrost, e o novo martelo a partir das reconstrução do antigo em um planeta estrela por um anão sobrevivente.
+
+10. Em Asgard terá uma câmara secreta com Fefnir morto guardando um tesouro especial (a definir) de seu pai (Loki)
+11. Você poderá visitar o trono de Odin e interagir com seus corvos (dando uma nether star), que lhe darão o medalhão de Odin, poderá ser usado para fazer um colar q dá agilidade 1 + 2 de armadura (dependencia do baubles)
+12. Sala do tesouro de Odin, debaixo dos escombros protegidos por uma pedra indestrutível, poderá entrar após receber a chave de Vidar ao falar com ele apos adiquirir o medalhão de odin
+13. Item como a lança de (Gungnir), martelo, armaduras novas poderão ser craftados na forja do anão, você poderá recriar a forja do anão com interface estilo forbidden arcanus.
+
+14. Dragões serão raros de achar, e mais raro ainda é ter o ovo do dragão podendo ser domesticado
+15. A noite em Asgard terá fantasmas, dropam ectoplasma, que usado na forja poderá ser feito armadura de aço-ectoplasma e espada espiritual.
+16. Nova liga de metal bronze e aço. Compatível com outros mods. 
+17. Item de ferro, carvão, prata, ouro e estanho serão usados para criar os item do mod
+18. Forja de bifrost será utilizado 9 obsidianas refinada com diamante. e uma lã de cada cor do arco íris, além de o martelo réplica de Thor no meio.
+19. Após ter usado os items serão consumidos e a forja de bifrost derreterá, outra forja poderá ser feita com éter dourado e a obsidiana refinada sendo essa de uso ilimitado, não precisando de ritual, apenas uma das armas místicas (cajado antigo, gungnir, mjolnir)
+20. Cajado antigo será um drop raro de um Deus ressuscitado mais fácil (Loki) 
+21. Rituais para invocar e de batalha contra alma de deuses.
+22. Odin, Thor, Loki poderao ser derrotados
+
+23. Mithril (Asgard), draconita (the end)
+24. Asgard será um dimensão em que o spawn será o santuário da bifrost, terá um fog aumentado e escombros por todo o mapa, a 200 metros ao norte do spawn terá Asgard em ruínas onde poderá achar os tesouros, 
+25. espíritos malignos dos guerreiros mortos (Einherjar)e fantasmas serão comuns
+26. Gigantes de Gelo, invasores hostis de Asgard após ter sido destruída.
+27. Lobos, cordeiros mobs amigáveis 
+28. Lobos negros hostis 
+29. Dragões raros
+30. Elfos da luz, encontrados em pequenas vilas nas florestas
+31. Anões andarilhos, e anões villagers incluindo o mestre de forja
+
+32. Minério mithril e jóias poderiam ser encontrado em camadas inferiores 
+33. Outras ligas poderiam ser feitas somente em Asgard. Moon Silver (Prata Lunar): Uma liga de metal associada à lua. Sunsteel (Aço Solar): Uma liga de metal mágica associada ao sol. É frequentemente retratada como sendo brilhante e luminosa, e pode ser usada para criar armas e objetos que canalizam a energia do sol. Eldersteel (Aço Ancião): Uma liga de metal mágica que muitas vezes é retratada como tendo propriedades místicas ou poderes especiais. Pode ser usada para criar armas e armaduras extraordinárias. 
+34. Éter dourado será um líquido pegavel por balde e pote de vidro, usado nas forjas como combustível não como item
+35. Poderá ser feito no Overworld Sky Iron (Ferro do Céu): Uma liga de metal rara e mágica que cai do céu como meteoritos. Dwarvensteel: aço de anão. 
+
+36. Asgard: ambiente escuro e sombrio com neblina, biomas como floresta queimada, floresta densa, escombros de Asgard serão de tamanho maior, rios místicos com peixes diferentes (preciso de ajuda com esse bioma), planície, e abismo do esquecimento.
+37. Para o bioma do rio místico, criar um sistema de pesca único com diferentes tipos de peixes místicos que podem ser usados para criar poções ou itens especiais.
+38. forjar armas e armaduras poderosas estilo tinkers construct
+39. Ressurreição dos Deuses: Criar um sistema em que os jogadores possam coletar itens específicos ou completar desafios para ajudar na ressurreição dos deuses. Por exemplo, os jogadores podem precisar encontrar artefatos sagrados, derrotar chefes poderosos ou reunir recursos raros para realizar o ritual de ressurreição.
