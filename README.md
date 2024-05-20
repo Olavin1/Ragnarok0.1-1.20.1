@@ -16,14 +16,15 @@ Para executar o projeto na sua máquina, confira as seguintes etapas:
 De início, é necessário instalar o JDK (Java Development Kit), isto é, uma coleção de ferramentas de software que você pode usar para desenvolver aplicações em Java
 </p>
 
-<img
-  aling = "center"
-  src="assets/img/jdk_jre_jvm.png"
-  alt="A cabeça e o tronco de um esqueleto de dinossauro;
-          tem uma cabeça grande com dentes longos e afiados"
-  width="400"
-  height="341"
-  title="Java JDK Diagram" />
+<div align = "center">
+  <img
+    src="assets/img/jdk_jre_jvm.png"
+    alt="A cabeça e o tronco de um esqueleto de dinossauro;
+            tem uma cabeça grande com dentes longos e afiados"
+    width="400"
+    height="341"
+    title="Java JDK Diagram" />
+</div>
 
 #### Dowload no Linux
 <p align = "justify">
