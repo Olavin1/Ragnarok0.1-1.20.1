@@ -19,8 +19,7 @@ De início, é necessário instalar o JDK (Java Development Kit), isto é, uma c
 <div align = "center">
   <img
     src="assets/img/jdk_jre_jvm.png"
-    alt="A cabeça e o tronco de um esqueleto de dinossauro;
-            tem uma cabeça grande com dentes longos e afiados"
+    alt="olavinho da o cu pra bandido"
     width="400"
     height="341"
     title="Java JDK Diagram" />
